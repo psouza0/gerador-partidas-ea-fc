@@ -3,6 +3,8 @@
 ## Descrição
 Esta aplicação foi projetada para facilitar a criação de partidas 1x1 no jogo **EA FC**, com foco em manter o equilíbrio competitivo e a variedade de clubes e seleções. O sistema segue regras específicas para a seleção de times, garantindo uma experiência justa e diversificada para os jogadores.
 
+![](background.png)
+
 ## Regras de Seleção de Times
 1.  **Melhores Clubes e Seleções**:
     * Apenas times com **overall igual ou superior a 79** são considerados para o sorteio.
