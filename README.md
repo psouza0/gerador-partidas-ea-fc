@@ -1,5 +1,7 @@
 # Gerador de Partidas 1x1 no EA FC
 
+**[➡️ Acesse a aplicação clicando aqui!](https://psouza0.github.io/gerador-partidas-ea-fc/)**
+
 ## Descrição
 Esta aplicação foi projetada para facilitar a criação de partidas 1x1 no jogo **EA FC**, com foco em manter o equilíbrio competitivo e a variedade de clubes e seleções. O sistema segue regras específicas para a seleção de times, garantindo uma experiência justa e diversificada para os jogadores.
 
