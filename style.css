@@ -6,7 +6,8 @@ body {
     background-image: url('static/wallpaper.jpg');
     background-size: cover;  
     background-position: center;  
-    background-repeat: no-repeat;  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     display: flex; 
     align-items: center; 
     justify-content: center;  
@@ -79,4 +80,35 @@ body {
 
 .p1, .p2 {
     background-color: #28a745;
+}
+
+
+/* =============================================== */
+/* ESTILOS PARA TELAS PEQUENAS (CELULARES)         */
+/* =============================================== */
+@media (max-width: 768px) {
+    body {
+        height: auto;
+        min-height: 100%;
+        align-items: flex-start;
+        padding-top: 2rem;
+    }
+
+    .player-label {
+        font-size: 1.2rem;
+    }
+    
+    .team-card h5 {
+        font-size: 1.1rem;
+    }
+
+    .team-card p {
+        font-size: 1.2rem;
+    }
+
+    .stats-box {
+        width: 50px;       
+        height: 50px;      
+        font-size: 1.2rem; 
+    }
 }
